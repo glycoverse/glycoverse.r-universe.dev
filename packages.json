@@ -1,0 +1,42 @@
+[
+    {
+        "package": "glyexp",
+        "url": "https://github.com/glycoverse/glyexp"
+    },
+    {
+        "package": "glyread",
+        "url": "https://github.com/glycoverse/glyread"
+    },
+    {
+        "package": "glyclean",
+        "url": "https://github.com/glycoverse/glyclean"
+    },
+    {
+        "package": "glystats",
+        "url": "https://github.com/glycoverse/glystats"
+    },
+    {
+        "package": "glyvis",
+        "url": "https://github.com/glycoverse/glyvis"
+    },
+    {
+        "package": "glyrepr",
+        "url": "https://github.com/glycoverse/glyrepr"
+    },
+    {
+        "package": "glyparse",
+        "url": "https://github.com/glycoverse/glyparse"
+    },
+    {
+        "package": "glymotif",
+        "url": "https://github.com/glycoverse/glymotif"
+    },
+    {
+        "package": "glyenzy",
+        "url": "https://github.com/glycoverse/glyenzy"
+    },
+    {
+        "package": "glydet",
+        "url": "https://github.com/glycoverse/glydet"
+    }
+]
