@@ -1,5 +1,9 @@
 [
     {
+        "package": "glycoverse",
+        "url": "https://github.com/glycoverse/glycoverse"
+    },
+    {
         "package": "glyexp",
         "url": "https://github.com/glycoverse/glyexp"
     },
