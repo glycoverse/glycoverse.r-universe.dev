@@ -1,46 +1,57 @@
 [
     {
         "package": "glycoverse",
-        "url": "https://github.com/glycoverse/glycoverse"
+        "url": "https://github.com/glycoverse/glycoverse",
+        "branch" : "*release"
     },
     {
         "package": "glyexp",
-        "url": "https://github.com/glycoverse/glyexp"
+        "url": "https://github.com/glycoverse/glyexp",
+        "branch" : "*release"
     },
     {
         "package": "glyread",
-        "url": "https://github.com/glycoverse/glyread"
+        "url": "https://github.com/glycoverse/glyread",
+        "branch" : "*release"
     },
     {
         "package": "glyclean",
-        "url": "https://github.com/glycoverse/glyclean"
+        "url": "https://github.com/glycoverse/glyclean",
+        "branch" : "*release"
     },
     {
         "package": "glystats",
-        "url": "https://github.com/glycoverse/glystats"
+        "url": "https://github.com/glycoverse/glystats",
+        "branch" : "*release"
     },
     {
         "package": "glyvis",
-        "url": "https://github.com/glycoverse/glyvis"
+        "url": "https://github.com/glycoverse/glyvis",
+        "branch" : "*release"
     },
     {
         "package": "glyrepr",
-        "url": "https://github.com/glycoverse/glyrepr"
+        "url": "https://github.com/glycoverse/glyrepr",
+        "branch" : "*release"
     },
     {
         "package": "glyparse",
-        "url": "https://github.com/glycoverse/glyparse"
+        "url": "https://github.com/glycoverse/glyparse",
+        "branch" : "*release"
     },
     {
         "package": "glymotif",
-        "url": "https://github.com/glycoverse/glymotif"
+        "url": "https://github.com/glycoverse/glymotif",
+        "branch" : "*release"
     },
     {
         "package": "glyenzy",
-        "url": "https://github.com/glycoverse/glyenzy"
+        "url": "https://github.com/glycoverse/glyenzy",
+        "branch" : "*release"
     },
     {
         "package": "glydet",
-        "url": "https://github.com/glycoverse/glydet"
+        "url": "https://github.com/glycoverse/glydet",
+        "branch" : "*release"
     }
 ]
