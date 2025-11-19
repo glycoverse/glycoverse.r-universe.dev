@@ -53,5 +53,10 @@
         "package": "glydet",
         "url": "https://github.com/glycoverse/glydet",
         "branch" : "*release"
+    },
+    {
+        "package": "glydb",
+        "url": "https://github.com/glycoverse/glydb",
+        "branch" : "*release"
     }
 ]
