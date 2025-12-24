@@ -63,5 +63,10 @@
         "package": "glyanno",
         "url": "https://github.com/glycoverse/glyanno",
         "branch": "*release"
+    },
+    {
+        "package": "glysmith",
+        "url": "https://github.com/glycoverse/glysmith",
+        "branch": "*release"
     }
 ]
