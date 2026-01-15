@@ -65,6 +65,11 @@
         "branch": "*release"
     },
     {
+        "package": "glydraw",
+        "url": "https://github.com/glycoverse/glydraw",
+        "branch": "*release"
+    },
+    {
         "package": "glysmith",
         "url": "https://github.com/glycoverse/glysmith",
         "branch": "*release"
